@@ -4,7 +4,7 @@
   </div>
   <div style="display: flex">
     <n-card
-      title="Notify me"
+      title="Wuque Studio售后申请"
       size="large"
       hoverable="true"
       :bordered="false"

@@ -17,9 +17,12 @@ import TheMain from "../components/MainView.vue";
 
     <!-- CSS ================================================== -->
   </head>
-  <header>
-    <div style="text-align: center">
-      
+  <header style="position: relative; padding-bottom: 70px">
+    <div
+      id="header_img"
+      style="position: absolute; left: 50%; margin: 0 0 0 -135px"
+    >
+      <img width="270px" src="../assets/imgs/logo.png" />
     </div>
   </header>
   <main>
